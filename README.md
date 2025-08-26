@@ -7,11 +7,6 @@ This is a Python project that can **detect Sudoku puzzles in real-time from a ca
 The main aim of this project was to **learn and apply concepts of Computer Vision, Deep Learning, and Algorithm Design**.
 ---
 
-## 🛠 Sample Output
-<img src="https://github.com/snehitvaddi/Real-Time-Sudoku-Solver-OpenCV-and-Keras/blob/master/output/output-gif.gif" width="400">
-
----
-
 ## 🧠 Algorithm Used
 - Normally, Sudoku is solved using a **Backtracking approach**, which is brute-force.  
 - In this project, I used a **Greedy Best-First Search approach**, which is an optimized version of backtracking.  
